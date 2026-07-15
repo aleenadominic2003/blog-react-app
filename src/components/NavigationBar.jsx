@@ -68,14 +68,7 @@ const NavigationBar = () => {
                                 </Link>
                             </li>
 
-                            <li className="nav-item">
-                                <button
-                                    className="btn btn-danger ms-2"
-                                    onClick={logout}
-                                >
-                                    Logout
-                                </button>
-                            </li>
+                            
 
                         </ul>
 
